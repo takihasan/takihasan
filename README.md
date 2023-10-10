@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @takihasan
-- 👀 I’m interested in Domain Generalization, Graph Neural Networks, and Vision-Language Models (VLMs).
+- 👀 I’m interested in Computer Vision and Machine Learning.
 - 🌱 I’m currently a Ph.D. Student @HYU
 - ♨️ If you want to collaborate, please send me an email!
 - 📫 Reach me at takihr@hanyang.ac.kr
